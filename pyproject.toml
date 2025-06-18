@@ -6,7 +6,8 @@ authors = [
     { name = "padawont", email = "ryanharriszubair@gmail.com" }
 ]
 dependencies = [
-    "pyppeteer>=2.0.0",
+    "asyncio>=3.4.3",
+    "selenium>=4.33.0",
 ]
 readme = "README.md"
 requires-python = ">= 3.8"
